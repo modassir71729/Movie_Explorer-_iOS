@@ -1,6 +1,0 @@
-framework module Pods_MoviewExplorer {
-  umbrella header "Pods-MoviewExplorer-umbrella.h"
-
-  export *
-  module * { export * }
-}
